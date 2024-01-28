@@ -1,0 +1,55 @@
+.container-one,
+.footer
+{
+    background-color: #1F2937;
+}
+
+.heading-main
+{
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
+.subheading-main,
+a
+{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo
+{
+    font-size: 24px;
+}
+
+.heading-main,
+.header-logo
+{
+    color: #F9FAF8;
+}
+
+button,
+.container-four
+{
+    background-color: #3882F6;
+}
+
+.header-information
+{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.container-three
+{
+    background-color: #E5E7EB;
+}
+
+.quote
+{
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
