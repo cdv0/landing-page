@@ -6,5 +6,4 @@
 <ul>
     <li>Utlized HTML and CSS for creating a landing page layout.</li>
     <li>Demonstrated proficiency in using flexbox for flexible design.</li>
-    <li>
 </ul>
